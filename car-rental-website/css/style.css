@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	padding:0;
+}
+nav{
+	padding: 10px;
+}
+/*.home {
+	text-align: center;
+	padding: 80px;
+	}
+*/
+	
+.offer {
+	text-align: center;
+	margin-bottom:50px;
+}
+footer{
+	text-align: center;
+	padding: 20px;
+	background: black;
+	color: white;
+}
+/*.home h3{
+	color:var(--black);
+	font-size: 4vw;
+	text-transform: uppercase;
+}
+
+.home img{
+	width:100%;
+
+}*/
+
+.car{
+	height:100px;
+}
+.area{
+	font-size: 12px;
+	font-weight: 100;
+	margin: 0;
+}
+h6{
+	margin-bottom: 0;
+}
+
+
